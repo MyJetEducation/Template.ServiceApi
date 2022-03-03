@@ -1,0 +1,22 @@
+{
+  "author": "MyJetEducation",
+  "classifications": [ "MyJetEducationServiceApi" ],
+  "name": "MyJetEducationServiceApi",
+  "identity": "MyJetEducationServiceApi",
+  "shortName": "myjeteducationserviceapi",
+  "preferNameDirectory": "true",
+  "tags": {
+    "language": "C#"
+  },
+  "sourceName": "AssetsDictionaryApi",
+  "symbols": {
+    "clientSecretsId": {
+      "type": "generated",
+      "generator": "guid",
+      "replaces": "user-secrets-id",
+      "parameters": {
+        "format":"N"
+      }
+    }
+  }
+}
