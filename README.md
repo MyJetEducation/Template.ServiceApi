@@ -1,4 +1,4 @@
-![.NET Core](https://github.com/MyJetEducation/Template.Service/workflows/.NET%20Core/badge.svg)
+![.NET Core](https://github.com/MyJetEducation/Template.ServiceApi/workflows/.NET%20Core/badge.svg)
 
 # HOW TO USE TEMPLATE
 
@@ -7,7 +7,7 @@
 dotnet new --install ${path}
 `
 
-where ${path} is the **full** path to the clonned directory (where the folder .template.config placed) **without trailing slash** (e.g. `D:\Root\Template.Service\template`)
+where ${path} is the **full** path to the clonned directory (where the folder .template.config placed) **without trailing slash** (e.g. `D:\Root\Template.ServiceApi\template`)
 
 ### Create
 
